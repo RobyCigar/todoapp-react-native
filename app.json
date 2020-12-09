@@ -1,0 +1,12 @@
+{
+  "name": "bljr-react",
+  "displayName": "bljr-react",
+  "expo": {
+    "name": "bljr-react",
+    "slug": "bljr-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
